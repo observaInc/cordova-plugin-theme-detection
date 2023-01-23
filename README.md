@@ -126,6 +126,7 @@ Please remove this property from `config.xml`.
 
 ## Changelog
 
+- 1.4.0: Forked.
 - 1.3.0: Add browser platform support
 - 1.2.1: Updated README
 - 1.2.0: Bugfix for Android 10
